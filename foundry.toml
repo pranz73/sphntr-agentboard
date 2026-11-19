@@ -1,0 +1,11 @@
+[profile.default]
+src = "contracts"
+test = "test"
+out = "out"
+cache_path = "cache"
+solc_version = "0.8.28"
+optimizer = true
+optimizer_runs = 200
+# No external libraries: the project is intentionally dependency-free
+# (Agent ID is reached through a minimal local interface, tests use a
+# hand-rolled cheatcode interface instead of forge-std).
