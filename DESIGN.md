@@ -2,7 +2,11 @@
 
 **Event:** Agent ID Hackathon (Binance Wallet + BNB Chain) — total rewards 60,000 USDC
 **Submission deadline:** 2026-12-09 08:00 UTC
-**Status:** designed + built + tested locally (2026-11-18). NOT yet deployed.
+**Status:** DEPLOYED 2026-11-19 to BNB Chain mainnet at
+`0xf2E284F6315781EB899b78641dDddbf1AF79B4b7` (via CREATE2 factory; Sourcify
+exact-match verified). Frontend live at https://pranz73.github.io/sphntr-agentboard/;
+sphntr registered as agent #1. Project submission via the in-app Binance
+campaign survey is the remaining step (requires the user's Binance account).
 
 ---
 
